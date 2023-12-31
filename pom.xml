@@ -1,0 +1,10 @@
+<project>
+    <name>Chimera framework</name>
+    <version>0.0.1a</version>
+    <author>
+        <name>Noble.Ho</name>
+        <url>https://github.com/nobleho</url>
+        <email>Noble.Ho.AuthIO@</email>
+    </author>
+    <license>MIT</license>
+</project>

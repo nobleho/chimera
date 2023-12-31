@@ -1,0 +1,6 @@
+{
+    "project" : "Chimera Framework",
+    "version": "0.0.1a",
+    "author": { "name": "Noble.Ho", "url": "https://github.com/nobleho", "email": "Noble.Ho.AuthIO@"},
+    "license": "MIT"
+}
